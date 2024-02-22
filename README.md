@@ -1,6 +1,6 @@
 ## Yijie Zheng
 
-I am a senior in Beijing Jiaotong University. I'm interesting in Remote Sensing and Geoinformation.
+[Hi, come and see my website!](https://voyagerxvoyagerx.github.io/index.html)
 
 
 <!--
