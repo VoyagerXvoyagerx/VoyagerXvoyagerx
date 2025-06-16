@@ -1,6 +1,6 @@
 ## Yijie Zheng
 
-[Hi, come and see my website!](https://voyagerxvoyagerx.github.io/index.html)
+[Hi, come and see my homepage!](https://voyagerxvoyagerx.github.io/index.html)
 
 
 <!--
