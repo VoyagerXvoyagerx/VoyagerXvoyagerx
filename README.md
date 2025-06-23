@@ -5,11 +5,10 @@
 
 [Hey, this is my homepage!](https://voyagerxvoyagerx.github.io/index.html)
 
-- 🔭 I’m currently working on remote sensing foundation models and its applications.
-- 👯 I’m looking to collaborate on biologists and AI researchers around the world.
-- 💬 Ask me to join our international research groups on remote sensing foundation model or biodiversity conservation.
+- 🔭 I’m currently working on remote sensing foundation models and their applications.
+- 👯 I’m looking to collaborate with biologists and AI researchers around the world.
 - 📫 How to reach me: zhengyijie23@mails.ucas.ac.cn
-- ⚡ News: We are organizing an amazing online training course on [space technology for global challenges](https://casa2025.casconf.cn/), where you can communicate with global renowed scientists. Feel free to join us!
+- ⚡ News: We are organizing an amazing online training course on [space technology for global challenges](https://casa2025.casconf.cn/), where you can communicate with globally renowed scientists. Feel free to join us!
 <!--
 **VoyagerXvoyagerx/VoyagerXvoyagerx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
