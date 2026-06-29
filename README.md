@@ -5,7 +5,7 @@
 
 [Hey, this is my homepage!](https://voyagerxvoyagerx.github.io/index.html)
 
-- 🔭 I’m currently working on remote sensing foundation models and their applications.
+- 🔭 I’m currently working on Earth Sciences.
 - 👯 I’m embracing open science for our planet.
 - 📫 How to reach me: zhengyijie23@mails.ucas.ac.cn
 <!--
