@@ -3,11 +3,9 @@
 ![Yijie Zheng](https://github.com/user-attachments/assets/56a52a7a-7789-4a36-9a88-34255374be40)
 
 
-[Hey, this is my homepage!](https://voyagerxvoyagerx.github.io/index.html)
 
 - 🔭 I’m currently working on Earth Sciences.
 - 👯 I’m embracing open science for our planet.
-- 📫 How to reach me: zhengyijie23@mails.ucas.ac.cn
 <!--
 **VoyagerXvoyagerx/VoyagerXvoyagerx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
