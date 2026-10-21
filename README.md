@@ -1,8 +1,7 @@
 ## Yijie Zheng
 
-![Yijie Zheng](https://github.com/user-attachments/assets/56a52a7a-7789-4a36-9a88-34255374be40)
 
-
+[<img width="2000" height="468" alt="your-name-in-sentinel-YIJIE-ZHENG-" src="https://github.com/user-attachments/assets/c1e2e93b-9e33-4f5a-a601-723d84362073" />](https://www.modelscope.cn/studios/VoyagerX/Your-Name-In-Sentinel?mode=full&app_path=%2Fapp%2F)
 
 - 🔭 I’m currently working on Earth Sciences.
 - 👯 I’m embracing open science for our planet.
